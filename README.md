@@ -1,5 +1,3 @@
-# Great Deals E-Commerce Corporation Backend Template
-
 ## Getting started
 
 ### Prerequisites
